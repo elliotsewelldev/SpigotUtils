@@ -1,0 +1,3 @@
+name: Util
+version: '${project.version}'
+main: club.elliotsewell.spigotutil.Util
